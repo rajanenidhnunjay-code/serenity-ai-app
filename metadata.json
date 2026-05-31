@@ -1,0 +1,6 @@
+{
+  "name": "Serenity Model High School",
+  "description": "Premium, highly professional responsive website for Serenity Model High School featuring interactive portals, academic and admissions guides, and an AI educational assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
